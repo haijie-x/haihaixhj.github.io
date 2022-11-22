@@ -1,1 +1,0 @@
-import{_ as e,c as t,o,b as a}from"./app.344be837.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/join.md","lastUpdated":1669136724000}'),n={name:"guide/join.md"},s=a("p",null,"join",-1),r=[s];function c(i,d,_,p,l,m){return o(),t("div",null,r)}const h=e(n,[["render",c]]);export{f as __pageData,h as default};
